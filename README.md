@@ -6,6 +6,6 @@
 
 ## 3) Final Report:
 
-## 4) Graphs:
+## 4) Graphs: https://github.com/jacobposz/How-to-Use-Data-Analytics-to-Pitch-Promote-and-Grow-a-single/tree/main/Graphs
 
 ## 5) Additional Resources: 
