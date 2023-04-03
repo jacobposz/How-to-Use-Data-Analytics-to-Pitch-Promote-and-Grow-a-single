@@ -8,4 +8,4 @@
 
 ### 4) Graphs: https://github.com/jacobposz/How-to-Use-Data-Analytics-to-Pitch-Promote-and-Grow-a-single/tree/main/Graphs
 
-### 5) Additional Resources: 
+### 5) Additional Resources: https://github.com/jacobposz/How-to-Use-Data-Analytics-to-Pitch-Promote-and-Grow-a-single/blob/main/Additional%20Resources.md
