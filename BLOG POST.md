@@ -1,7 +1,7 @@
 # How to Use Data Analytics to Pitch Promote and Grow a single
 ### By Jacob Posz --- April 17th, 2023	--- 9 minutes
 
-![image](https://github.com/jacobposz/How-to-Use-Data-Analytics-to-Pitch-Promote-and-Grow-a-single/blob/main/Graphs/CHART.png)
+![90 DAY PROMOTION CHART](https://user-images.githubusercontent.com/89123268/232650928-2cc5477d-9b13-433c-9aba-5ff45752d835.png)
 
 If you’re a music marketer, music promoter or independent artist and aren’t 100% sure how to pitch, promote and grow your artist's single properly, don’t sweat it.
 
